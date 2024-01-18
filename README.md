@@ -8,12 +8,13 @@
 [![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=black&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%26queryKey%3Dhttps://haysc.tech/feed.xml&style=flat-square)](https://haysc.tech/) -->
 
 <p align="center">
-  <a href="https://blog.wanxuping.com">
-    <img src="https://github-readme-stats.vercel.app/api?username=Wanxp&show_icons=true&theme=dark" />
-  </a>
     <a href="https://blog.wanxuping.com">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wanxp&api_domain=wakapi.wanxuping.com&theme=dark&custom_title=Wakapi%20Week%20Stats&layout=compact&show_icons=true&card_width=300" />
   </a>
+  <a href="https://blog.wanxuping.com">
+    <img src="https://github-readme-stats.vercel.app/api?username=Wanxp&show_icons=true&theme=dark" />
+  </a>
+
 </p>
 <!--
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Wanxp&show_icons=true&theme=dark)](https://github.com/Wanxp)   

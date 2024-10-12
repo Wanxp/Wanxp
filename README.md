@@ -1,29 +1,28 @@
 ### Yoo, I'm Wanxp 👋
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,md,ts,vim,mysql,kafka,linux,docker,maven,git,github,idea" />
+    <img src="https://skillicons.dev/icons?i=java,md,ts,mysql,python,rust,vim,bash,kafka,docker,maven,github,idea,obsidian,arch,linux&theme=light&perline=7" />
   </a>
 </p>
 <!-- [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/Wanxp)
 [![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=black&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%26queryKey%3Dhttps://haysc.tech/feed.xml&style=flat-square)](https://haysc.tech/) -->
-<p align="center">
-  <a href="https://blog.wanxuping.com">
-    <img src="https://github-readme-stats.vercel.app/api?username=Wanxp&show_icons=true&theme=dark" />
-  </a>
-
-</p>
-<p align="center">
+<p align="left" height="200em">
     <a href="https://blog.wanxuping.com">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=wanxp&api_domain=wakapi.wanxuping.com&theme=dark&custom_title=Wakapi%20Week%20Stats&layout=compact&show_icons=true&card_width=300" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=wanxp&api_domain=wakapi.wanxuping.com&custom_title=Season%20Coding%20Time&layout=compact&langs_count=10&display_format=time&card_width=300&theme=light" />
   </a>
-
+</p>
+<p align="left" height="200em">
+    <a href="https://blog.wanxuping.com">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wanxp&show_icons=true&theme=light" />
+    </a>
 </p>
 
 <!--
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Wanxp&show_icons=true&theme=dark)](https://github.com/Wanxp)   
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=wanxp&api_domain=wakapi.wanxuping.com&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact&langs_count=10)](https://blog.wanxuping.com)  -->
 
-Comming soon!
+
+✨Great! 🌊Coding change your life! 🌊
 
 <!-- 🍻 Junior at 🇨🇳 [PKU](https://www.pku.edu.cn), _BSc in Computer Science_
 - ⚡ C++ / Python.

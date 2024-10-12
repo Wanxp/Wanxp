@@ -1,6 +1,6 @@
 ### Yoo, I'm Wanxp 👋
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://blog.wanxuping.com">
     <img src="https://skillicons.dev/icons?i=java,md,ts,mysql,python,rust,vim,bash,kafka,docker,maven,github,idea,obsidian,arch,linux&theme=light&perline=7" />
   </a>
 </p>

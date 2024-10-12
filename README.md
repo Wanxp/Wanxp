@@ -14,7 +14,7 @@
 </p>
 <p align="center">
     <a href="https://blog.wanxuping.com">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wanxp&api_domain=wakapi.wanxuping.com&theme=dark&custom_title=Wakapi%20Week%20Stats&layout=compact&show_icons=true&card_width=300" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=wanxp&api_domain=wakapi.wanxuping.com&theme=dark&custom_title=Wakapi%20Week%20Stats&layout=compact&show_icons=true&card_width=300" />
   </a>
 
 </p>
